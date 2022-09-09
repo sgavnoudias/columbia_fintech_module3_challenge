@@ -2,7 +2,7 @@
 
 Features:
 - Evaluating potential arbitrage opportunities in Bitcoin across two different markets - bitstamp & coinbase - using Pandas.
-- To accomplish these tasks, you’ll perform the following phases of financial analysis: 
+- To accomplish these tasks, the module is broken up into the following phases of financial analysis: 
 
      *(1) Collect CSV data in a Jupyter notebook file.*
 
